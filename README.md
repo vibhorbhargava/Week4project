@@ -1,4 +1,4 @@
-# Background Peer graded Assignment Getting and Cleaning Data Course Project Oct-2016
+# Background Peer graded Assignment Getting and Cleaning Data Course Project 
 
 ##Getting and Cleaning Data - peer assessment project
 
